@@ -107,6 +107,7 @@ button {
 
 .main_content_left_side_btn_block .btn_start {
 	font-family: gilroy-bold;
+	color: rgba(255, 255, 255, 1);
 	font-size: 15px;
 	line-height: 17.58px;
 	padding: 16px 36px;
